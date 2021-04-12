@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072242436824",
+    "project_id": "flutter-demo-login-75f9a",
+    "storage_bucket": "flutter-demo-login-75f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072242436824:android:69b55d1b8906e1c7b5c5ad",
+        "android_client_info": {
+          "package_name": "com.example.loginfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072242436824-rn8h7k9mf0cqesct6ro7nkp281vr61ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRGYAIpDzyYJCxzrvaWhwjot7aN3KtV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072242436824-rn8h7k9mf0cqesct6ro7nkp281vr61ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072242436824-f8iqmq6906dkmov2deb2j9qtp9usuvme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutter.login.facebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
